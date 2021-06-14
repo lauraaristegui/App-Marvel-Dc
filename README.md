@@ -2,6 +2,7 @@
 # Getting Started with Create React App
 
 <img src="https://github.com/lauraaristegui/App-Marvel-Dc/blob/main/assets/imagen.png" alt="Marvel-DC"/>
+<a href="https://angry-johnson-e342ce.netlify.app"><p>Marvel-DC-App</p></a>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
