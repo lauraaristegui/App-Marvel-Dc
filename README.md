@@ -1,3 +1,5 @@
+
+<img src"https://github.com/lauraaristegui/App-Marvel-Dc/blob/main/assets/imagen.png" alt="App Marvel-DC"/>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
